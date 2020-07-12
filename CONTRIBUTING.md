@@ -25,4 +25,4 @@ yarn ship
 ```
 
 That version gets shipped to beta testers but might not actually be the version released to the store.
-The contribution would be very appreciated!!
+The contribution would be very appreciated!! Please and Thank you! :)
